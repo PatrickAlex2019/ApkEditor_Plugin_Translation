@@ -1,4 +1,14 @@
-# apkeditor_plugin_translation
+**Release** 
+
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/ApkEditor_Plugin_Translation?style=flat-square)](https://github.com/PatrickAlex2019/ApkEditor_Plugin_Translation/releases)
+
+**Download** 
+
+[![Download](https://img.shields.io/github/downloads/PatrickAlex2019/ApkEditor_Plugin_Translation/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/PatrickAlex2019/ApkEditor_Plugin_Translation/releases)
+
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/anubis_recommended)
+
+# ApkEditor_Plugin_Translation
 A sample translation plugin for APK Editor (Pro). In this project, src directory contains source code of the sample translation plugin; translate_debugger.zip is a patch to correct some spoiled variables (like "1 $%") which are wrongly translated by the translation plugin. (The patch is provided by a Russian friend)
 
 It only makes sense when APK Editor (Pro) is installed:
